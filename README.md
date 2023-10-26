@@ -10,4 +10,8 @@ After successfully running the code goto-
 
 2.Type "panel.serve xxxx" where xxxx represents your file name
 
-3.Your dashboard is ready
+3.After that it gives the link starting with the local-host
+
+4.Copy that local host link which was given by panel and search
+
+5.You are all set to view the Dashboard :)
